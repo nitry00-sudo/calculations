@@ -2,7 +2,7 @@
 
 #SBATCH --partition=amilan
 #SBATCH --job-name=Cu_BTTL1.scf	
-#SBATCH --account=ucb445_asc3
+#SBATCH --account=
 #SBATCH --nodes=1			
 #SBATCH --ntasks=48
 #SBATCH --mem=82GB
