@@ -1,0 +1,7 @@
+&BANDS
+  prefix = 'BTTL1'
+  outdir = '../temp/'
+  filband = 'BTTL1.band.pp.dat'
+  spin_component=1
+/
+
