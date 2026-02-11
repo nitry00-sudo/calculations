@@ -1,0 +1,5 @@
+&PROJWFC
+  prefix= 'BTTL1',
+  outdir= '../temp',
+  filpdos= 'BTTL1.pdos.dat'
+/
